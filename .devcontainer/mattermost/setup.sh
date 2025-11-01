@@ -14,5 +14,5 @@ fi
 cd data/project-repository
 git checkout ${PARENT_COMMIT}
 
-# cd webapp # TODO: make this generic
-# npm install --ignore-scripts # TODO: make this generic
+cd webapp 
+npm install --ignore-scripts 
