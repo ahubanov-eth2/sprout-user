@@ -27,7 +27,7 @@
 	"customizations": {
 		"codespaces": {
 			"repositories": {
-				"ahubanov-eth2/sprout-example-courses": {
+				"ahubanov-eth2/Sprout-Course-Collection": {
 					"permissions": "read-all" 
 				},
 				"mattermost/mattermost": {
